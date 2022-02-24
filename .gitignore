@@ -1,0 +1,4 @@
+#se especifican los archivos o las rutas o las carpetas que no se deben tener en cuenta
+.env
+#ejemplo de carpetas
+node_modeles/
